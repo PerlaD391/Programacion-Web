@@ -27,7 +27,7 @@ Integrar todos los ejercicios de la actividad del Tema 2 en un solo repositorio 
 ### Bloque 3: JavaScript
 - Ejercicio 10: Calculadora de conversión de grados Celsius a Fahrenheit, con validación de datos y campo de resultado `readonly`.
 
-## 🛠️ Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - HTML5: Estructura y contenido semántico.
 - CSS3: Estilizado con variables, Flexbox, Grid y pseudoclases.
