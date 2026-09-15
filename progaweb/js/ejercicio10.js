@@ -1,4 +1,3 @@
-// Esperar a que el DOM esté completamente cargado
 document.addEventListener('DOMContentLoaded', function () {
 
     const inputCelsius = document.getElementById('celsius');
